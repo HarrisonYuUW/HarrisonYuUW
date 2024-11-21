@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Computer Science at the University of Waterloo.
 - 📫 Reach me at h52yu@uwaterloo.ca
 - ⚡ Fun fact: I love sports, particularly basketball, and hitting the gym.
+- Currently working on: Monte Carlo Simulation in Python
 
 <!---
 HarrisonYuUW/HarrisonYuUW is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
