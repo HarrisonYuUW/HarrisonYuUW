@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HarrisonYuUW, this a new account for more professional purposes. 
+- 👋 Hi, I’m @HarrisonYuUW, this my new account for more professional purposes. 
 - 👀 I’m interested in learning new languages and different ways to develop products and systems.
 - 🌱 I’m currently learning Computer Science at the University of Waterloo.
 - 📫 Reach me at h52yu@uwaterloo.ca
