@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning new languages and different ways to develop products and systems.
 - 🌱 I’m currently learning Computer Science at the University of Waterloo. (2024 - 2029)
 - 📫 Reach me at h52yu@uwaterloo.ca
-- ⚡ Fun fact: I love sports, particularly basketball, and hitting the gym.
+- ⚡ Fun fact: I love sports, particularly basketball, hitting the gym, playing video-games, cooking, and sometimes reading....
 - Currently working on: Monte Carlo Simulation in Python
 
 <!---
