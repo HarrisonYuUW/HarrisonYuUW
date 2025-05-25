@@ -3,7 +3,7 @@
 - 🌱 I’m currently studying Computer Science at the University of Waterloo. (2024 - 2029)
 - 📫 Reach me at h52yu@uwaterloo.ca
 - I love sports, particularly basketball, hitting the gym, playing video games, cooking, and reading.
-- Currently working on/towards: OS and networks
+- Currently working on: AI agents to help CFA studenst pass the exam.
 
 <!---
 HarrisonYuUW/HarrisonYuUW is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
