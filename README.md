@@ -4,4 +4,4 @@ I love computers, math, and competitive games.
 
 Currently working on: An Order Book Matching Engine (C++) and a Custom Tensor Library with Autograd (C++). 
 
-The majority of my work is done in private repos. :-)
+The majority of my work is done in private repositories :-)
