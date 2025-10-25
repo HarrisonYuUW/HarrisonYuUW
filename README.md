@@ -9,6 +9,8 @@ The majority of my work is done in private repositories :-)
 All hail the roof raccoon! 🦝
 
 
+
+
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
