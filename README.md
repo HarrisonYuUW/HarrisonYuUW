@@ -2,7 +2,7 @@
 
 I love computers, math, and competitive games.
 
-Currently working on: An Order Book Matching Engine (C++) and a Thread Pool with Work Stealing (C++).
+Currently working on: Custom Tensor Library with Autograd (C++) and finally starting LeetCode!
 
 The majority of my work is done in private repositories :-)
 
