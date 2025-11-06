@@ -2,8 +2,8 @@
 
 I love computers, math, and competitive games.
 
-Currently working on: Custom Tensor Library with Autograd (C++) and finally starting LeetCode!
-
 The majority of my work is done in private repositories :-)
+
+Currently working on: Custom Tensor Library with Autograd (C++) and finally starting LeetCode!
 
 All hail the roof raccoon! 🦝
